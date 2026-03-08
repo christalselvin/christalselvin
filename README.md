@@ -66,6 +66,18 @@ Currently exploring **Platform Engineering and Site Reliability Engineering (SRE
 
 ---
 
+# 🧰 DevOps Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
 # 🔥 DevOps Portfolio Projects
 
 ### 🚀 CI/CD Pipeline Automation
@@ -99,7 +111,15 @@ Prometheus and Grafana monitoring setup for infrastructure observability.
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=christalselvin&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -107,8 +127,9 @@ Prometheus and Grafana monitoring setup for infrastructure observability.
 # 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christalselvin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christalselvin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 # 📫 Connect With Me
