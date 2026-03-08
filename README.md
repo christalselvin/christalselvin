@@ -15,13 +15,13 @@ AWS • Kubernetes • Docker • Terraform • Jenkins • CI/CD • Python •
 
 DevOps-focused Software Developer with **2+ years of experience** in backend development, cloud infrastructure, and deployment automation.
 
-I focus on:
+I specialize in:
 
-✔ CI/CD pipeline automation  
-✔ Containerized deployments  
-✔ Infrastructure as Code  
-✔ Cloud infrastructure  
-✔ Monitoring & observability  
+• CI/CD pipeline automation  
+• Containerized deployments  
+• Infrastructure as Code  
+• Cloud infrastructure  
+• Monitoring & observability  
 
 Currently exploring **Platform Engineering and Site Reliability Engineering (SRE)**.
 
@@ -108,27 +108,14 @@ Prometheus and Grafana monitoring setup for infrastructure observability.
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 DevOps Focus Areas
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=christalselvin&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christalselvin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+• CI/CD Pipeline Automation  
+• Infrastructure as Code (Terraform, Ansible)  
+• Containerized Deployments (Docker, Kubernetes)  
+• Cloud Infrastructure (AWS)  
+• Monitoring & Observability (Prometheus, Grafana)  
+• Linux System Administration  
 
 ---
 
