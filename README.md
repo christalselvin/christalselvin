@@ -6,9 +6,7 @@ AWS • Kubernetes • Docker • Terraform • Jenkins • CI/CD • Python •
 </p>
 
 <p align="center">
-<a href="https://github.com/christalselvin">
 <img src="https://komarev.com/ghpvc/?username=christalselvin&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
 </p>
 
 ---
@@ -25,7 +23,7 @@ I focus on:
 ✔ Cloud infrastructure  
 ✔ Monitoring & observability  
 
-Currently exploring **Platform Engineering and Site Reliability Engineering (SRE).**
+Currently exploring **Platform Engineering and Site Reliability Engineering (SRE)**.
 
 ---
 
@@ -61,7 +59,7 @@ Currently exploring **Platform Engineering and Site Reliability Engineering (SRE
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### 🖥 OS
+### 🖥 Operating Systems
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
@@ -74,6 +72,7 @@ Currently exploring **Platform Engineering and Site Reliability Engineering (SRE
 Automated application build and deployment pipeline using Jenkins and Docker.
 
 🔗 https://github.com/christalselvin/DevOps-CI-CD-Pipeline-with-Jenkins-Docker-and-Flask
+
 ---
 
 ### ☸ Kubernetes Application Deployment
@@ -100,7 +99,7 @@ Prometheus and Grafana monitoring setup for infrastructure observability.
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,15 +107,7 @@ Prometheus and Grafana monitoring setup for infrastructure observability.
 # 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christalselvin&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christalselvin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
