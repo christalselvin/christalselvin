@@ -73,8 +73,7 @@ Currently exploring **Platform Engineering and Site Reliability Engineering (SRE
 ### 🚀 CI/CD Pipeline Automation
 Automated application build and deployment pipeline using Jenkins and Docker.
 
-🔗 https://github.com/christalselvin/devops-cicd-jenkins-docker
-
+🔗 https://github.com/christalselvin/DevOps-CI-CD-Pipeline-with-Jenkins-Docker-and-Flask
 ---
 
 ### ☸ Kubernetes Application Deployment
