@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christal Selvin</h1>
-<h3 align="center">DevOps Engineer | Platform Engineering | SRE</h3>
+<h3 align="center">DevOps Engineer | Platform Engineering | Site Reliability Engineering (SRE)</h3>
+
+<p align="center">
+Building scalable cloud infrastructure, CI/CD pipelines, and production-grade DevOps platforms.
+</p>
 
 <p align="center">
 AWS • Kubernetes • Docker • Terraform • Jenkins • CI/CD • Python • Linux
@@ -15,13 +19,16 @@ AWS • Kubernetes • Docker • Terraform • Jenkins • CI/CD • Python •
 
 DevOps-focused Software Developer with **2+ years of experience** in backend development, cloud infrastructure, and deployment automation.
 
-I specialize in:
+I specialize in building **scalable cloud-native systems and automated DevOps pipelines**.
 
-• CI/CD pipeline automation  
-• Containerized deployments  
-• Infrastructure as Code  
-• Cloud infrastructure  
-• Monitoring & observability  
+### Core Expertise
+
+• CI/CD Pipeline Automation  
+• Infrastructure as Code (Terraform, Ansible)  
+• Containerized Deployments (Docker, Kubernetes)  
+• Cloud Infrastructure (AWS)  
+• Monitoring & Observability (Prometheus, Grafana)  
+• Linux System Administration  
 
 Currently exploring **Platform Engineering and Site Reliability Engineering (SRE)**.
 
@@ -80,42 +87,127 @@ Currently exploring **Platform Engineering and Site Reliability Engineering (SRE
 
 # 🔥 DevOps Portfolio Projects
 
-### 🚀 CI/CD Pipeline Automation
-Automated application build and deployment pipeline using Jenkins and Docker.
+### 🚀 Production-Grade Cloud Native DevOps Platform for Microservices
 
-🔗 https://github.com/christalselvin/DevOps-CI-CD-Pipeline-with-Jenkins-Docker-and-Flask
+End-to-end **production-style DevOps platform** simulating real-world cloud infrastructure used in modern tech companies.
+
+This project demonstrates how to build a **fully automated DevOps ecosystem** using Kubernetes, CI/CD pipelines, Infrastructure as Code, GitOps, and monitoring.
+
+### Architecture Includes
+
+• Microservices Architecture  
+• CI/CD Automation  
+• GitOps Deployment  
+• Container Orchestration  
+• Infrastructure Automation  
+• Observability & Monitoring  
+
+### Microservices
+
+• User Service  
+• Product Service  
+• Order Service  
+• Payment Service  
+
+### DevOps Stack
+
+• GitHub – Source Code Management  
+• Jenkins – CI/CD Pipeline Automation  
+• Docker – Containerization  
+• Kubernetes – Container Orchestration  
+• Terraform – Infrastructure Provisioning  
+• Ansible – Server Configuration Management  
+• RabbitMQ – Message Queue for Microservices  
+• ArgoCD – GitOps Continuous Deployment  
+• JFrog Artifactory – Artifact Management  
+• Prometheus – Metrics Monitoring  
+• Grafana – Observability Dashboards  
+
+🔗 Repository  
+https://github.com/christalselvin/Production-Grade-DevOps-Platform-for-Microservices
+
+---
+
+### 🚀 CI/CD Pipeline Automation
+
+Automated application build and deployment pipeline using **Jenkins, Docker, and Flask**.
+
+Features:
+
+• Automated build pipelines  
+• Docker image creation  
+• Continuous deployment workflow  
+
+🔗 Repository  
+https://github.com/christalselvin/DevOps-CI-CD-Pipeline-with-Jenkins-Docker-and-Flask
 
 ---
 
 ### ☸ Kubernetes Application Deployment
-Containerized Flask application deployed to Kubernetes cluster.
 
-🔗 https://github.com/christalselvin/kubernetes-flask-deployment
+Containerized Flask application deployed to a **Kubernetes cluster**.
+
+Features:
+
+• Deployment manifests  
+• Kubernetes services  
+• Scalable container orchestration  
+
+🔗 Repository  
+https://github.com/christalselvin/kubernetes-flask-deployment
 
 ---
 
 ### 🏗 AWS Infrastructure Automation
-Provision AWS infrastructure using Terraform.
 
-🔗 https://github.com/christalselvin/terraform-aws-infrastructure
+Provision AWS cloud infrastructure using **Terraform Infrastructure as Code**.
+
+Features:
+
+• Automated cloud resource provisioning  
+• Infrastructure version control  
+• Reproducible environments  
+
+🔗 Repository  
+https://github.com/christalselvin/terraform-aws-infrastructure
 
 ---
 
 ### 📊 Monitoring Stack
-Prometheus and Grafana monitoring setup for infrastructure observability.
 
-🔗 https://github.com/christalselvin/prometheus-grafana-monitoring
+Infrastructure monitoring using **Prometheus and Grafana**.
+
+Features:
+
+• Metrics collection  
+• Dashboard visualization  
+• Infrastructure observability  
+
+🔗 Repository  
+https://github.com/christalselvin/prometheus-grafana-monitoring
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=christalselvin&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=christalselvin&theme=tokyonight" />
+</p>
 
 ---
 
 # 🚀 DevOps Focus Areas
 
-• CI/CD Pipeline Automation  
-• Infrastructure as Code (Terraform, Ansible)  
-• Containerized Deployments (Docker, Kubernetes)  
-• Cloud Infrastructure (AWS)  
-• Monitoring & Observability (Prometheus, Grafana)  
-• Linux System Administration  
+• Cloud Native Infrastructure  
+• CI/CD Automation  
+• Kubernetes Platform Engineering  
+• Infrastructure as Code  
+• Observability & Monitoring  
+• Site Reliability Engineering  
 
 ---
 
