@@ -17,9 +17,36 @@ I work on deployment automation, server and VM administration, containerized wor
 - **Virtualization:** Proxmox
 - **Scripting & Development:** Python, shell scripting, Flask
 
+## Professional Experience
+
+### Software Engineer — Autointelli
+*July 2026 – Present | DevOps & Infrastructure Operations*
+
+- Develop and maintain GitHub Actions workflows for application build, testing, and deployment.
+- Automate deployment workflows across Windows and private Linux environments.
+- Create and configure Proxmox virtual machines, install operating systems, and troubleshoot server-level issues.
+- Manage Docker-based application workloads and Linux server environments.
+- Monitor infrastructure using Telegraf, SNMP, and monitoring platforms.
+- Investigate CI/CD failures, network connectivity issues, service availability, and infrastructure performance.
+
+### Software Engineer — SocialWing
+*September 2024 – June 2026*
+
+- Administered Linux and Windows servers and VPS environments.
+- Configured Nginx web server and reverse-proxy setups for application hosting and traffic routing.
+- Worked with Docker, Git, GitHub, and CI/CD workflows for application deployments.
+
+### Software Engineer — Autointelli
+*September 2023 – February 2024*
+
+- Developed REST APIs using Python and Flask with MySQL and PostgreSQL.
+- Used Docker to containerize applications and improve deployment consistency.
+- Deployed and configured applications on Linux servers, including Ubuntu and RHEL.
+- Investigated production issues and used Git and GitHub for version control.
+
 ## Featured DevOps Work
 
-> The first three entries describe professional work at a high level. Client-specific details and source code are not published here.
+> The following summaries are generalized to avoid exposing client-specific details or private source code.
 
 ### 1. Network Management System (NMS), Infrastructure Monitoring & Automation
 - Deployed NMS applications using Docker and Docker Compose.
